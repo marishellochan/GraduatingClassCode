@@ -1,0 +1,18 @@
+S1005	Fred	 Flintstone	BSc_Computer_Science 		2020	24	30	30	9	228
+S2015	Wilma	 Flintstone	BSc_Mathematics			2020	24	30	30	9	168
+S2010	Harry	 Potter		BSc_Computer_Science_Special	2020	18	24	15	9	114
+S3090	Robert   Downy	        BSc_Computer_Science_Special	2019	24	27	30	9	134
+S2005	Barney	 Rubble		BSc_Information_Technology	2020	21	30	27	9	185
+S4155	Diana	 Prince		BSc_Computer_Science		2020	21	30	30	6	232
+S5215	Chadwick Boseman	BSc_Computer_Science		2018	24	30	30	9	242
+S4895	Bruce	 Wayne		BSc_Actuarial_Science_Special	2018	24	30	30	9	168
+S3785	Zoe	 Saldana	BSc_Physics			2020	24	30	30	6	245
+S2195	Peter	 Parker		BSc_Information_Technology	2020	21	30	21	9	205
+S2350	Arthur	 Curry		BSc_Computer_Science		2017	21	24	27	6	209
+S4580	Marty	 McFly		BSc_Computer_Science_Special	2019	24	30	30	9	248
+S2745	Fred	 Sanford	BSc_Computer_Science_Special	2015	24	30	30	9	160
+S4855	Esther	 Sanford	BSc_Computer_Science		2020	24	30	30	9	215
+S1590	Jessica	 Fletcher	BSc_Computer_Science_Special    2020	24	30	30	9	148
+S3255	Jaime	 Sommers  	BSc_Computer_Science		2020	24	30	30	9	110
+
+END
