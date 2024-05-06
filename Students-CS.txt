@@ -1,0 +1,12 @@
+S1005	Fred	Flintstone	BSc_Computer_Science	24	30	30	9	228	
+S2010	Harry	Potter	BSc_Computer_Science_Special	18	24	15	9	114	
+S3090	Robert	Downy	BSc_Computer_Science_Special	24	27	30	9	134	
+S4155	Diana	Prince	BSc_Computer_Science	21	30	30	6	232	
+S5215	Chadwick	Boseman	BSc_Computer_Science	24	30	30	9	242	
+S2350	Arthur	Curry	BSc_Computer_Science	21	24	27	6	209	
+S4580	Marty	McFly	BSc_Computer_Science_Special	24	30	30	9	248	
+S2745	Fred	Sanford	BSc_Computer_Science_Special	24	30	30	9	160	
+S4855	Esther	Sanford	BSc_Computer_Science	24	30	30	9	215	
+S1590	Jessica	Fletcher	BSc_Computer_Science_Special	24	30	30	9	148	
+S3255	Jaime	Sommers	BSc_Computer_Science	24	30	30	9	110	
+END
